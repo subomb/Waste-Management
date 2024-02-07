@@ -30,10 +30,6 @@ This project aims to address the inefficiencies of manual waste management by pr
 ### Software Setup
 Clone the repository and ensure that all required software is installed on the Raspberry Pi.
 
-```bash
-git clone https://github.com/subomb/waste-management-system.git
-cd waste-management-system
-
 ### Usage
 Navigate to the script directory and execute the script using the following command:
 
