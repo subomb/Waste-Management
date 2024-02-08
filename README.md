@@ -50,7 +50,7 @@ Main Loop: Continuously checks the bin's fill level and prints updates to the te
 
 Cleanup: Ensures GPIO pins are cleaned up properly on script termination.
 
-### Link to the demo:
+## Link to the demo:
 https://youtube.com/shorts/DRbtLne5NVY
 
 ## Future Improvements
