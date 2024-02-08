@@ -1,5 +1,4 @@
 # Simplified Intelligent Waste Management System
-
 ## Project Summary
 The Simplified Intelligent Waste Management System is designed to improve the efficiency of waste management in suburban and rural areas. Utilizing a Raspberry Pi and ultrasonic sensor (HC-SR04), it automates the monitoring of waste bin fill levels, providing real-time notifications and enhancing the waste collection process.
 
